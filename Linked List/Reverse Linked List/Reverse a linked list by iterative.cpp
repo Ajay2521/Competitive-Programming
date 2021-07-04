@@ -1,3 +1,7 @@
+// iterative method
+// Time Complexity T = O(n)
+// Space Complexity S = O(1)
+
 // { Driver Code Starts
 //Initial Template for C
 #include<stdio.h>
