@@ -58,7 +58,7 @@ Print a single integer which is the number of trailing zeroes.
 
 ## Pseudo Code
 
-`
+```python
     // Function for finding the trailing zeros in a factorial
  
     // let n = 5 for sample test case
@@ -83,7 +83,7 @@ Print a single integer which is the number of trailing zeroes.
     // count holds the number of trailing zeros in factorial of "n"  
     return count;
 
-`
+```
 
 ### HINT:
 
@@ -91,10 +91,13 @@ If need to print "n" or performe without change the "n" value
 
 instead of while loop try the below for loop
 
-`for (int i = 5; n / i >= 1; i *= 5){`            
+```c++
+
+for (int i = 5; n / i >= 1; i *= 5){            
             
             countZeros += n / i;
 
-`}`
+}
+```
 
 
