@@ -1,5 +1,5 @@
 // Method = Divide and conqure
-// Time Complexity T = O(log (base(2)) (n))
+// Time Complexity T = O(log (n))
 // Space Complexity S = O(1)
 
 class Solution {
