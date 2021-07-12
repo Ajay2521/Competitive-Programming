@@ -91,8 +91,10 @@ If need to print "n" or performe without change the "n" value
 
 instead of while loop try the below for loop
 
-`for (int i = 5; n / i >= 1; i *= 5){
+`for (int i = 5; n / i >= 1; i *= 5){`            
             
             countZeros += n / i;
 
-}`
+`}`
+
+
