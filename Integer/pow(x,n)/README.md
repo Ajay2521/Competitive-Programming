@@ -44,6 +44,7 @@ Explanation: 2-2 = 1/22 = 1/4 = 0.25
 - [By using Recursion in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Integer/pow(x%2Cn)/pow(x%2Cn)%20by%20Recursive.cpp)
 - [By using Divide and Conquer in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Integer/pow(x%2Cn)/pow(x%2Cn)%20by%20DivCon.cpp)
 - [By using Divide and Conquer in Java](https://github.com/Ajay2521/Competitive-Programming/blob/main/Integer/pow(x%2Cn)/pow(x%2Cn)%20by%20DivCon.java)
+- [By using Divide and Conquer with recursion(GFG)](https://github.com/Ajay2521/Competitive-Programming/blob/main/Integer/pow(x%2Cn)/DivCon%20with%20Recursion.cpp)
 
 ### Pseudo Code - Recursive(Fails for Negative value)
 
