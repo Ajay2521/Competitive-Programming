@@ -1,3 +1,7 @@
+// Method = Reverse
+// Time Complexity T = O(n)
+// Space Complexity T = O(1)
+
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
