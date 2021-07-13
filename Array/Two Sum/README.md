@@ -30,14 +30,14 @@ twoSum(nums, target):
       // getting differece for target and "i-th" value
       diff = target - nums[i];
       
-      // if the difference is already in the heapMap 
+      // if the difference is already in the hashMap 
       // then return the map value and current "i-th value" 
       if map.containsKey(diff):
         
         return [map.get[nums[i]],i];
       
-      // if the difference is not present in the heapmap
-      // add the "i-th" value and its index to the heapmap
+      // if the difference is not present in the hashMap
+      // add the "i-th" value and its index to the hashMap
       map.put(nums[i],i);
       
   // if no pair is find, return exception
