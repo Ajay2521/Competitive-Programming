@@ -1,5 +1,5 @@
 // Brute Force - Iterative
-// Time Complexity T = O(n2)
+// Time Complexity T = O(n^2)
 // Space Complexity S = O(1)
 
 class Solution {
