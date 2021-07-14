@@ -1,3 +1,7 @@
+// Method - Binary Search(Optimised)
+// Time Complexity T = O(log (n))
+// Space Complexity S = O(1)
+
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
