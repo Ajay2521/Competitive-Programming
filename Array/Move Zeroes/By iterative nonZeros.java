@@ -1,6 +1,6 @@
-// Method - Iterative(BruteForce)
+// Method - Iterating nonZero(BruteForce)
 // Time Complexity T - O(n)
-// Space Complexity S - O(n)
+// Space Complexity S - O(1)
 
 
 class Solution {
