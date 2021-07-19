@@ -131,6 +131,13 @@ missingNumber(nums):
     return -1
 ```
 
+
+#### Optimised - GaussFormula
+
+**Time Complexity T - O(n)**
+
+**Space Complexity S - O(1)**
+
 ```python
 
 missingNumber(nums):
