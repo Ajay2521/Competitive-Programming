@@ -1,6 +1,6 @@
-// Method - Hashing(BruteForce)
+// Method - Set(BruteForce)
 // Time Complexity T - O(n)
-// Space Complexity  S - O(n) 
+// Space Complexity  S - O(1) 
 
 
 class Solution {
@@ -9,7 +9,7 @@ class Solution {
         // initializing the missingNum variable
         List<Integer> missingNum = new ArrayList<>();
         
-        // initializing the number varibale which makes copy of nums
+        // initializing the number varibale which makes copy of unique values from the nums
         Set<Integer> numbers = new HashSet<>();
         
         // looping through the array "0" to "n-1"
