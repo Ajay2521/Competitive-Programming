@@ -1,4 +1,4 @@
-// Method - Hashing(BruteForce)
+// Method - set(BruteForce)
 // Time Complexity T - O(n)
 // Space Complexity  S - O(n) 
 
@@ -9,14 +9,14 @@ public:
         // initializing the missingNum variable
         vector<int> missingNum;
         
-        // initializing the number varibale which makes copy of nums
-        map<int,int> numbers;
+        // initializing the number varibale which makes a copy of unique values from num
+        set<int> numbers;
         
         // looping through the array "0" to "n-1"
         for(int i = 0; i < nums.size(); i++){
             
             // adding the unique number to the hashmap
-            numbers.insert({nums[i],i});    
+            numbers.insert(nums[i]);    
         }  
         
         
