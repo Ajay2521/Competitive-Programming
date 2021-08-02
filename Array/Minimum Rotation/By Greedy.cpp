@@ -3,9 +3,10 @@
 // Space Complexity S - O(1)
 
 class Solution {
-    public int minDominoRotations(int[] tops, int[] bottoms) {
+public:
+    int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
         
-        // initialize the miniumRotation to -1, 
+      // initialize the miniumRotation to -1, 
         int minimumRotation = -1;
         
         // loop runs for 1 to 6 times
@@ -30,13 +31,13 @@ class Solution {
     }
     
     // recursive function
-    private int minRotation(int[] tops, int[] bottoms, int value){
+    int minRotation(vector<int>& tops, vector<int>& bottoms, int value){
     
         // initizalize the topVal and bottomVal
         int topVal = 0, bottomVal = 0;
         
         // loop runs for 0 to len(top)-1
-        for(int i = 0; i < tops.length; i++){
+        for(int i = 0; i < tops.size(); i++){
             
             // if top[i] and bottom[i] is not equal to value return -1
             if (tops[i] != value && bottoms[i] != value){
@@ -52,6 +53,6 @@ class Solution {
             }
          }
        // return minimum of topVal and BottomVal 
-       return Math.min(topVal, bottomVal);
+       return min(topVal, bottomVal);
     }
-}
+};
