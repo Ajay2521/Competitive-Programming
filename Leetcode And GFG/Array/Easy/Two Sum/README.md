@@ -110,3 +110,20 @@ twoSum(nums, target):
   return {0,0};
 
 ```
+
+**Solution:**
+
+**Brute Force - Iteration**
+
+  - [By iteration in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Two%20Sum/By%20iterative.cpp)
+
+  - [By iteration in Java](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Two%20Sum/By%20iterative.Java)
+
+**OPtimised - HashMap**
+
+  - [By Hashmap in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Two%20Sum/By%20hashmap.cpp)
+  
+  - [By Hashmap in Java](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Two%20Sum/By%20hashmap.java)
+
+
+
