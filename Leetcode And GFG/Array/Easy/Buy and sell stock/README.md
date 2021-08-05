@@ -108,15 +108,15 @@ buyAndSell(prices):
 
 **Brute Force - Iterative**
 
-   - [By iterative in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Array/Stock%20buy%20and%20sell/By%20iterative.cpp)
+   - [By iterative in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Buy%20and%20sell%20stock/By%20iteration.cpp)
     
-   - [By iterative in Java](https://github.com/Ajay2521/Competitive-Programming/blob/main/Array/Stock%20buy%20and%20sell/By%20iterative.java)
+   - [By iterative in Java](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Buy%20and%20sell%20stock/By%20iteration.java)
     
 **Optimised - One pass**
     
-   - [By one pass in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Array/Stock%20buy%20and%20sell/By%20one%20pass.cpp)
+   - [By one pass in C++](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Buy%20and%20sell%20stock/By%20one%20pass.cpp)
     
-   - [By one pass in Java(faster)](https://github.com/Ajay2521/Competitive-Programming/blob/main/Array/Stock%20buy%20and%20sell/By%20one%20pass.java)
+   - [By one pass in Java(faster)](https://github.com/Ajay2521/Competitive-Programming/blob/main/Leetcode%20And%20GFG/Array/Easy/Buy%20and%20sell%20stock/By%20one%20pass.java)
 
 
     
